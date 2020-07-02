@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="commit">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="Q328.奇偶链表">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -81,7 +81,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,7 +94,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,7 +107,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,7 +120,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,7 +133,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,7 +186,16 @@
       <workItem from="1592018086507" duration="6452000" />
       <workItem from="1592614714746" duration="10410000" />
       <workItem from="1592703438991" duration="4332000" />
-      <workItem from="1592919596774" duration="839000" />
+      <workItem from="1592919596774" duration="1321000" />
+      <workItem from="1592997002302" duration="3161000" />
+      <workItem from="1593068080808" duration="4615000" />
+      <workItem from="1593133542496" duration="8354000" />
+      <workItem from="1593229262613" duration="6552000" />
+      <workItem from="1593348060972" duration="3419000" />
+      <workItem from="1593394033216" duration="1200000" />
+      <workItem from="1593523962393" duration="1822000" />
+      <workItem from="1593565907653" duration="2063000" />
+      <workItem from="1593695051100" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -209,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592710469169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Q328.奇偶链表">
+      <created>1592920543633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592920543633</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +246,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="两道二叉树的题，套路差不多，都是先序遍历思想" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Q328.奇偶链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q328.奇偶链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#Project_Structure" timestamp="1588857774253">
@@ -241,11 +258,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1588252363457" />
-    <state x="651" y="173" key="FileChooserDialogImpl" timestamp="1592640066041">
+    <state x="651" y="173" key="FileChooserDialogImpl" timestamp="1593229282548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591191285364" />
-    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592640066041" />
+    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593229282548" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592754867984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -286,15 +303,15 @@
     </state>
     <state width="1322" height="215" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591405183963" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592672493221" />
-    <state x="261" y="0" key="SettingsEditor" timestamp="1592635770151">
+    <state x="261" y="0" key="SettingsEditor" timestamp="1593695081595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591456072312" />
-    <state x="261" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592635770151" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592710474370">
+    <state x="261" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593695081595" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592920548638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592710474370" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592920548638" />
     <state x="527" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1592018086539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -308,11 +325,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="53" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591405181452" />
-    <state x="617" y="334" width="716" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592635768234">
+    <state x="617" y="334" width="628" height="399" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1593230510986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="439" y="234" width="716" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1590500786163" />
-    <state x="617" y="334" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592635768234" />
+    <state x="617" y="334" width="628" height="399" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593230510986" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1589893127889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -330,11 +347,6 @@
           <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q377.java</url>
           <line>45</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q1051.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q633.java</url>
