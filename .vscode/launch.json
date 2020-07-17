@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Q557",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q557",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Q238",
             "request": "launch",
             "mainClass": "com.zsw.leetcode.Q238",
