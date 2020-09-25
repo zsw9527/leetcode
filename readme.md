@@ -1,4 +1,4 @@
-# algorithm-with-go
+# algorithm-with-java
 - 不规则更新
 - 作者很懒
 - 哈哈哈哈哈哈
