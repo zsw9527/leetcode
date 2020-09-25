@@ -1,4 +1,4 @@
-# leetcode
+# algorithm-with-go
 - 不规则更新
 - 作者很懒
 - 哈哈哈哈哈哈
