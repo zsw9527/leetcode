@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="一波">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="冲突">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1470.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1470.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/Q561.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/Q561.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +34,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
+  <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,15 +56,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaGuide" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -76,7 +88,7 @@
       <recent name="C:\Users\Administrator\Desktop\leetcode\com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q557">
+  <component name="RunManager">
     <configuration name="Q1021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q1021" />
       <module name="leetcode" />
@@ -142,15 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Q557" />
-        <item itemvalue="Application.Q209" />
-        <item itemvalue="Application.Q1470" />
-        <item itemvalue="Application.Q1021" />
-        <item itemvalue="Application.Q1033" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -203,7 +206,12 @@
       <workItem from="1593914221096" duration="3656000" />
       <workItem from="1594215673096" duration="1313000" />
       <workItem from="1594297274002" duration="18000" />
-      <workItem from="1594907764122" duration="337000" />
+      <workItem from="1594907764122" duration="405000" />
+      <workItem from="1594993306691" duration="352000" />
+      <workItem from="1594995926745" duration="1101000" />
+      <workItem from="1595057347031" duration="3421000" />
+      <workItem from="1595511415468" duration="884000" />
+      <workItem from="1595512328240" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -247,7 +255,28 @@
       <option name="project" value="LOCAL" />
       <updated>1593877116450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="一波">
+      <created>1594908107387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594908107388</updated>
+    </task>
+    <task id="LOCAL-00008" summary="一波">
+      <created>1594908115205</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594908115205</updated>
+    </task>
+    <task id="LOCAL-00009" summary="冲突">
+      <created>1594993599687</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594993599687</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +299,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Q328.奇偶链表" />
     <MESSAGE value="一波" />
-    <option name="LAST_COMMIT_MESSAGE" value="一波" />
+    <MESSAGE value="冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="冲突" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#Project_Structure" timestamp="1588857774253">
@@ -281,31 +311,35 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1588252363457" />
-    <state x="651" y="173" key="FileChooserDialogImpl" timestamp="1593229282548">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1594993659706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594993659706" />
+    <state x="651" y="173" key="FileChooserDialogImpl" timestamp="1594993656802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591191285364" />
-    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593229282548" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593953199269">
+    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594993656802" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594908168711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591515987433" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593953199269" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593953199269">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594908168711" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594908168711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591515987432" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593953199269" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593953199269">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594908168711" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594908168711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591515987432" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593953199269" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593953199269">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594908168711" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594908168711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591515987432" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593953199269" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594908168711" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1593953199266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -326,15 +360,23 @@
     </state>
     <state width="1322" height="215" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591405183963" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593953199266" />
-    <state x="261" y="0" key="SettingsEditor" timestamp="1593695081595">
+    <state x="595" y="280" key="MultipleFileMergeDialog" timestamp="1594993620492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594993620492" />
+    <state x="410" y="191" key="SettingsEditor" timestamp="1595749667280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591456072312" />
-    <state x="261" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593695081595" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593877122487">
+    <state x="410" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595749667280" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594993606062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593877122487" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594993606062" />
+    <state x="715" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1594993555749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594993555749" />
     <state x="527" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1592018086539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -345,10 +387,15 @@
     </state>
     <state x="234" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1590499894637" />
     <state x="329" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1593914323295" />
-    <state x="53" y="0" key="new project wizard" timestamp="1591405181452">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="668" y="306" key="git4idea.merge.GitPullDialog" timestamp="1595515635408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595515635408" />
+    <state x="74" y="0" key="new project wizard" timestamp="1595512371536">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="53" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591405181452" />
+    <state x="74" y="0" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595512371536" />
     <state x="617" y="334" width="628" height="399" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1593230510986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -365,26 +412,9 @@
     <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592018692526" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q377.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q633.java</url>
-          <line>7</line>
-          <properties class="com.zsw.leetcode.Q633" method="judgeSquareSum">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="S.length()" language="JAVA" />
+        <watch expression="S.length()" />
       </configuration>
     </watches-manager>
   </component>
