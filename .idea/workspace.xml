@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="冲突">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q329.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q5.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +235,10 @@
       <workItem from="1601454640545" duration="1569000" />
       <workItem from="1601562126042" duration="9522000" />
       <workItem from="1601866321742" duration="1991000" />
+      <workItem from="1602152312992" duration="1396000" />
+      <workItem from="1602153730029" duration="2501000" />
+      <workItem from="1602254273406" duration="55000" />
+      <workItem from="1602335005481" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -338,10 +338,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601385936228" />
-    <state x="651" y="173" key="FileChooserDialogImpl" timestamp="1594993656802">
+    <state x="379" y="277" key="FileChooserDialogImpl" timestamp="1602154937707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594993656802" />
+    <state x="379" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602154937707" />
     <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1601872861952">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -398,10 +398,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="595" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594993620492" />
-    <state x="410" y="191" key="SettingsEditor" timestamp="1601386466764">
+    <state x="410" y="191" key="SettingsEditor" timestamp="1602335036499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="410" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601386466764" />
+    <state x="410" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602335036499" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594993606062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
