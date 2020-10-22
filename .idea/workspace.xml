@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="冲突">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="Q24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q24.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,17 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Q19" />
@@ -246,7 +234,8 @@
       <workItem from="1602423308581" duration="2846000" />
       <workItem from="1602594373446" duration="1834000" />
       <workItem from="1603009789014" duration="55000" />
-      <workItem from="1603010737872" duration="3425000" />
+      <workItem from="1603010737872" duration="4216000" />
+      <workItem from="1603376933339" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -318,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602426436487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Q24">
+      <created>1603025212968</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603025212968</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +339,8 @@
     <MESSAGE value="一波" />
     <MESSAGE value="冲突" />
     <MESSAGE value="首先想到的是回溯法，但数据量大会超时" />
-    <option name="LAST_COMMIT_MESSAGE" value="首先想到的是回溯法，但数据量大会超时" />
+    <MESSAGE value="Q24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="387" key="#GOROOT" timestamp="1601689103416">
@@ -418,10 +415,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603009803955" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602426439392">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603025294792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602426439392" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603025294792" />
     <state x="715" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1601385955898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
