@@ -3,6 +3,7 @@ package com.zsw.swordoffer;
 import java.util.Stack;
 
 public class Q6 {
+
     public int[] reversePrint(ListNode head) {
         if (head == null) {
             return new int[]{};

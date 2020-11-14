@@ -22,6 +22,7 @@ import java.util.Map;
  *    15   7
  */
 public class Q7 {
+
     HashMap<Integer, Integer> indexMap = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {

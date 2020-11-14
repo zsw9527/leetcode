@@ -8,6 +8,7 @@ import java.util.Stack;
  * 分别完成在队列尾部插入整数和在队列头部删除整数的功能。(若队列中没有元素，deleteHead 操作返回 -1 )
  */
 public class Q9 {
+
     public static class CQueue {
         private Stack<Integer> stack1;
         private Stack<Integer> stack2;
