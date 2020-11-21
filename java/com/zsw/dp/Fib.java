@@ -1,5 +1,8 @@
 package com.zsw.dp;
 
+/**
+ * 斐波那契数列
+ */
 public class Fib {
 
     /**

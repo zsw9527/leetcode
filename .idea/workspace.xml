@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="format">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" />
   </component>
   <component name="RecentsManager">
@@ -90,7 +92,7 @@
       <recent name="com.zsw.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoinChange">
+  <component name="RunManager" selected="Application.Permute">
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zsw.dp.CoinChange" />
       <module name="leetcode" />
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q416" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q416" />
+    <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsw.backtrack.Permute" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.leetcode.*" />
+          <option name="PATTERN" value="com.zsw.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permute" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.Fib" />
         <item itemvalue="Application.Q784" />
         <item itemvalue="Application.Q5" />
-        <item itemvalue="Application.Q416" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +268,7 @@
       <workItem from="1605409652679" duration="1671000" />
       <workItem from="1605625239968" duration="838000" />
       <workItem from="1605713486221" duration="66000" />
-      <workItem from="1605919497893" duration="4150000" />
+      <workItem from="1605919497893" duration="7340000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -462,10 +464,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="287" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604716016893" />
-    <state x="421" y="130" width="1145" height="712" key="SettingsEditor" timestamp="1605919506492">
+    <state x="421" y="130" width="1145" height="712" key="SettingsEditor" timestamp="1605952710282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="421" y="130" width="1145" height="712" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605919506492" />
+    <state x="421" y="130" width="1145" height="712" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605952710282" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605413707072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -492,7 +494,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java</url>
-          <line>12</line>
+          <line>16</line>
           <properties class="com.zsw.dp.CoinChange" method="coinChange">
             <option name="EMULATED" value="true" />
           </properties>
