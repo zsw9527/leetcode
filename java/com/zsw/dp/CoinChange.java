@@ -31,6 +31,6 @@ public class CoinChange {
 
     public static void main(String[] args) {
         int[] coins ={1, 3, 5};
-        System.out.println(coinChange(coins, 2));
+        System.out.println(coinChange(coins, 7));
     }
 }
