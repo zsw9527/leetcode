@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="format">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/CoinChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +66,12 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../高途项目/course-app/pom.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/高途项目/course-app/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" />
   </component>
   <component name="RecentsManager">
@@ -277,6 +276,8 @@
       <workItem from="1607247866502" duration="3254000" />
       <workItem from="1607523755805" duration="553000" />
       <workItem from="1607738504385" duration="3758000" />
+      <workItem from="1607943680327" duration="1795000" />
+      <workItem from="1608031526805" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -476,10 +477,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="633" y="189" width="730" height="594" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606403759510" />
-    <state x="421" y="130" width="1145" height="712" key="SettingsEditor" timestamp="1607246407334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="316" y="102" width="900" height="722" key="SettingsEditor" timestamp="1608031800456">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="421" y="130" width="1145" height="712" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607246407334" />
+    <state x="316" y="102" width="900" height="722" key="SettingsEditor/0.23.1440.801/-1920.-34.1920.1057@0.23.1440.801" timestamp="1607944056303" />
+    <state x="316" y="102" key="SettingsEditor/0.23.1440.801/-1920.-57.1920.1080@0.23.1440.801" timestamp="1608031800456" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605413707072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
