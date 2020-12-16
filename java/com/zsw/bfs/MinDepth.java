@@ -16,7 +16,7 @@ public class MinDepth {
         if (root == null) {
             return 0;
         }
-        int min = 0;
+        int min = 1;
         Deque<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
@@ -33,8 +33,8 @@ public class MinDepth {
                 if (cur.right != null) {
                     queue.offer(cur.right);
                 }
-                min++;
             }
+            min++;
         }
         return min;
     }
