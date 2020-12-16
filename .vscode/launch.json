@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NQueens",
+            "request": "launch",
+            "mainClass": "com.zsw.backtrack.NQueens",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Q557",
             "request": "launch",
             "mainClass": "com.zsw.leetcode.Q557",
