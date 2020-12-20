@@ -1,5 +1,6 @@
 package com.zsw.dp;
 
+
 //字符串最小编辑距离
 //def minDistance(s1, s2) -> int:
 //
@@ -22,7 +23,7 @@ package com.zsw.dp;
 
 public class MinDistance {
 
-	public static int minDistance(String s1, String s2) {
+	public int minDistance(String s1, String s2) {
 		int m = s1.length();
 		int n = s2.length();
 		int[][] dp = new int[m + 1][n + 1];
@@ -46,6 +47,6 @@ public class MinDistance {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(minDistance("horse", "ose"));
+		System.out.println(new MinDistance().minDistance("horse", "ose"));
 	}
 }

@@ -1,5 +1,6 @@
 package com.zsw.dp;
 
+
 /**
  * 斐波那契数列
  */
@@ -10,7 +11,7 @@ public class Fib {
      * @param n >= 1
      * @return
      */
-    public static int fib1(int n) {
+    public int fib1(int n) {
         if (n == 1 || n == 2) {
             return 1;
         }
@@ -23,12 +24,12 @@ public class Fib {
      * @param n >= 1
      * @return
      */
-    public static int fib2(int n) {
+    public int fib2(int n) {
         int[] memo = new int[n+1];
         return helper(n, memo);
     }
 
-    private static int helper(int n, int[] memo) {
+    private int helper(int n, int[] memo) {
         if (n == 1 || n == 2) {
             return 1;
         }
@@ -46,7 +47,7 @@ public class Fib {
      * @param n >= 1
      * @return
      */
-    public static int fib3(int n) {
+    public int fib3(int n) {
         int[] memo = new int[n+1];
         memo[1] = 1;
         if (n >= 2) {
@@ -60,7 +61,7 @@ public class Fib {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            System.out.println(fib3(i));
+            System.out.println(new Fib().fib3(i));
         }
     }
 }

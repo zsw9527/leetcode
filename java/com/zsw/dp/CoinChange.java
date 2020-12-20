@@ -14,7 +14,7 @@ public class CoinChange {
      * @param amount 需要凑出的金额
      * @return 最小需要几个硬币
      */
-    public static int coinChange(int[] coins, int amount) {
+    public int coinChange(int[] coins, int amount) {
         int max = amount + 1;
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, max);
@@ -31,6 +31,6 @@ public class CoinChange {
 
     public static void main(String[] args) {
         int[] coins ={1, 3, 5};
-        System.out.println(coinChange(coins, 7));
+        System.out.println(new CoinChange().coinChange(coins, 7));
     }
 }

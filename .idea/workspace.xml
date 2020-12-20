@@ -19,9 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="fix bug">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/backtrack/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/bfs/MinDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/bfs/MinDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/dp/MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/backtrack/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/backtrack/NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/CoinChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/Fib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/MinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/dp/MinDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q905.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q905.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" afterDir="false" />
     </list>
+    <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,6 +190,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="" />
+      <changelist id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
       <created>1588252321206</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
