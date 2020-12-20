@@ -1,6 +1,6 @@
-package com.zsw.bfs;
+package com.zsw.algorithm.bfs;
 
-import com.zsw.leetcode.TreeNode;
+import com.zsw.algorithm.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -38,8 +38,5 @@ public class MinDepth {
         }
         return min;
     }
-    
-    public static void main(String[] args) {
-    	System.out.println("你号中国");
-    }
+
 }

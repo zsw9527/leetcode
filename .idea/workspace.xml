@@ -21,7 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/Permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/backtrack/Permute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/Permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/Permute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/bfs/MinDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/bfs/MinDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/bfs/OpenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/bfs/OpenLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,11 +104,11 @@
   </component>
   <component name="RunManager" selected="Application.Permute">
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.dp.CoinChange" />
+      <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.dp.CoinChange" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.dp.*" />
+          <option name="PATTERN" value="com.zsw.algorithm.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.dp.Fib" />
+      <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.dp.Fib" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.dp.*" />
+          <option name="PATTERN" value="com.zsw.algorithm.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
       </method>
     </configuration>
     <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.backtrack.NQueens" />
+      <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.backtrack.NQueens" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.backtrack.*" />
+          <option name="PATTERN" value="com.zsw.algorithm.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +143,11 @@
       </method>
     </configuration>
     <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.backtrack.Permute" />
+      <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.backtrack.Permute" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.backtrack.*" />
+          <option name="PATTERN" value="com.zsw.algorithm.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,7 +413,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/backtrack/NQueens.java</url>
+          <url>file://$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/NQueens.java</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

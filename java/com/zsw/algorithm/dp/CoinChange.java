@@ -1,4 +1,4 @@
-package com.zsw.dp;
+package com.zsw.algorithm.dp;
 
 import java.util.Arrays;
 

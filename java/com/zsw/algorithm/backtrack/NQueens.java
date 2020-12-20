@@ -1,4 +1,4 @@
-package com.zsw.backtrack;
+package com.zsw.algorithm.backtrack;
 
 import java.util.ArrayList;
 import java.util.List;

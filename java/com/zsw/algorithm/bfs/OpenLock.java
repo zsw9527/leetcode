@@ -1,4 +1,4 @@
-package com.zsw.bfs;
+package com.zsw.algorithm.bfs;
 
 import java.util.HashSet;
 import java.util.LinkedList;
