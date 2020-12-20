@@ -8,13 +8,13 @@ import java.util.List;
  */
 public class Permute {
 
-    public static List<List<Integer>> permute(int[] arr) {
+    public List<List<Integer>> permute(int[] arr) {
         List<List<Integer>> res = new ArrayList<>();
         backtrack(res, new ArrayList<Integer>(), arr);
         return res;
     }
 
-    private static void backtrack(List<List<Integer>> res, List<Integer> track, int[] arr) {
+    private void backtrack(List<List<Integer>> res, List<Integer> track, int[] arr) {
         if (track.size() == arr.length) {
             res.add(new ArrayList<>(track));
             return;
@@ -31,7 +31,7 @@ public class Permute {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 3};
-        List<List<Integer>> resList = permute(arr);
+        List<List<Integer>> resList = new Permute().permute(arr);
         resList.stream().forEach(a -> {
             a.stream().forEach(b -> System.out.print(b + " "));
             System.out.println();
