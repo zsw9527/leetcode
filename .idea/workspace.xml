@@ -20,15 +20,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/backtrack/Permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/Permute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/bfs/MinDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/bfs/MinDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/bfs/OpenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/bfs/OpenLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/Fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/dp/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/dp/MinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face0109.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face0109.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/LRUCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/LRUCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1013.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1013.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1021.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1021.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q103.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q103.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1033.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1033.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1051.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1051.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q107.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q109.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q109.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1144.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1144.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q122.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q124.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q124.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1299.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1299.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q130.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q130.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q131.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q131.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1342.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1342.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1346.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1346.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1365.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1365.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1367.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1367.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q137.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q137.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q143.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q143.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q145.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q145.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1460.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1460.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1464.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1464.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1470.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1470.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q169.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q169.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q189.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q189.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q200.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q200.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q209.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q215.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q216.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q216.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q230.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q230.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q235.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q235.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q236.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q236.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q238.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q238.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q328.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q328.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q334.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q334.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q377$Res.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q377$Res.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q377.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q377.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q394.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q394.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q404.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q404.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q416.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q416.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q437.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q437.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q51.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q523.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q523.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q557.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q557.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q561.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q561.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q60.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q633.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q633.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q655.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q655.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q701.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q701.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q718.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q718.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q77.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q77.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q777.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q777.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q784.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q784.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q82.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q82.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q86.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q86.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q90.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q905.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q905.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q92.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q92.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q922.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q922.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q94.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q94.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q98.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q9$CQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q9$CQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/TreeNode.class" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +151,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\tujia\repo\repository-tujia" />
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="localRepository" value="D:\apache-maven-3.6.3\localRepo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -77,29 +174,30 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/demo/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face1611.class" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zsw.swordoffer" />
-    </key>
-    <key name="OPEN_URL_DIALOG">
-      <recent name="http://gitlab.corp.tujia.com/house-system/tns_sms_gateway.git" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zsw.leetcode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\leetcode\java" />
     </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://gitlab.corp.tujia.com/house-system/tns_sms_gateway.git" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\leetcode\com" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zsw.leetcode" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zsw.algorithm" />
+      <recent name="com.zsw.swordoffer" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Permute">
@@ -164,6 +262,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,6 +388,7 @@
       <workItem from="1607738504385" duration="3758000" />
       <workItem from="1607943680327" duration="1795000" />
       <workItem from="1608031526805" duration="1391000" />
+      <workItem from="1608441731651" duration="4108000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -408,6 +518,24 @@
     <MESSAGE value="format" />
     <MESSAGE value="fix bug" />
     <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608442013176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608442013176" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1608442021162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608442021162" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1608474017938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1608474017938" />
+    <state x="334" y="129" key="new project wizard" timestamp="1608442122066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608442122066" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

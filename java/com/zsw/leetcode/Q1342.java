@@ -14,7 +14,7 @@ public class Q1342 {
 		else return 1 + numberOfSteps(num-1);
     }
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		System.out.println(new Q1342().numberOfSteps(5));
 		System.out.println(new Q1342().numberOfSteps(6));
 		System.out.println(new Q1342().numberOfSteps(2));
