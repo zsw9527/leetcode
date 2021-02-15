@@ -20,7 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/zsw/algorithm/twoPointers/MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/algorithm/twoPointers/MinimumWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Face07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q103.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q103.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q107.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q109.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q109.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q124.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q124.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1342.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1342.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1367.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q1367.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q145.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q145.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q230.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q230.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q235.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q235.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q236.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q236.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q404.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q404.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q437.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q437.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q655.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q655.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q662.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q701.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q701.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q94.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q94.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q98.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/swordoffer/TreeNode.class" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +70,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -69,7 +105,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../高途项目/cart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weiboPicDownloader/weiboPicDownloader" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -95,20 +131,7 @@
       <recent name="com.zsw.swordoffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumWindowSubstring">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.binarySearch.BinarySearch" />
       <module name="leetcode" />
@@ -161,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.sort.SelectSort" />
+    <configuration name="Q674" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q674" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zsw.algorithm.sort.*" />
+          <option name="PATTERN" value="com.zsw.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Q674" />
+        <item itemvalue="Application.Permute" />
         <item itemvalue="Application.MinimumWindowSubstring" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Permute" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +310,13 @@
       <workItem from="1608031526805" duration="1391000" />
       <workItem from="1608441731651" duration="4108000" />
       <workItem from="1608648150585" duration="106000" />
+      <workItem from="1610804664788" duration="303000" />
+      <workItem from="1610851302682" duration="2788000" />
+      <workItem from="1611390392272" duration="625000" />
+      <workItem from="1611495455251" duration="1432000" />
+      <workItem from="1611546926077" duration="143000" />
+      <workItem from="1612084233484" duration="2708000" />
+      <workItem from="1612186076336" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -386,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608130789036</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="最小覆盖子串">
+      <created>1610157009612</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610157009612</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -415,26 +452,14 @@
     <MESSAGE value="fomat" />
     <MESSAGE value="format" />
     <MESSAGE value="fix bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
+    <MESSAGE value="最小覆盖子串" />
+    <option name="LAST_COMMIT_MESSAGE" value="最小覆盖子串" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/algorithm/backtrack/NQueens.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/algorithm/twoPointers/MinimumWindowSubstring.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="S.length()" />
+        <watch expression="nums.length" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

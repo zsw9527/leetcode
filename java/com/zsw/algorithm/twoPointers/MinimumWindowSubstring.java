@@ -43,7 +43,7 @@ public class MinimumWindowSubstring {
                     if (window.get(d).equals(need.get(d))) {
                         valid--;
                     }
-                    window.put(d, window.getOrDefault(d, 0) - 1);
+                    window.put(d, window.get(d) - 1);
                 }
             }
         }
