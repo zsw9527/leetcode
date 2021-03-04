@@ -1,32 +1,40 @@
 package com.zsw.leetcode;
 
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Q78 {
 
+    private List<List<Integer>> res = new ArrayList<>();
+
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> output = new LinkedList<>();
         for (int i = 0; i <= nums.length; ++i) {
-            backtrace(nums, 0, nums.length, i, new LinkedList<>(), output);
+            dfs(nums, 0, i, new ArrayList<>());
         }
-        return output;
+        return res;
     }
 
-    public void backtrace(int[] nums, int first, int n, int k, LinkedList<Integer> cur, List<List<Integer>> output) {
-        if (cur.size() == k) {
-            output.add(new LinkedList<>(cur));
+    private void dfs(int[] nums, int start, int len, List<Integer> cur) {
+        if (cur.size() == len) {
+            res.add(new ArrayList<>(cur));
+            return;
         }
-        for (int i = first; i < n; ++i) {
+
+        for (int i = start; i < nums.length; ++i) {
             cur.add(nums[i]);
-            backtrace(nums,i+1, n, k, cur, output);
-            cur.removeLast();
+            dfs(nums, i+1, len, cur);
+            cur.remove(cur.size() - 1);
         }
     }
 
     public static void main(String[] args) {
         int[] nums = {1,2,3,4};
-        List<List<Integer>> output = new Q78().subsets(nums);
-        output.stream().forEach(System.out::println);
+        List<List<Integer>> res = new Q78().subsets(nums);
+        for (List<Integer> curList : res) {
+            System.out.print("[");
+            curList.forEach(a -> System.out.print(a + " "));
+            System.out.print("]");
+            System.out.println();
+        }
     }
 }
