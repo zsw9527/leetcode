@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/Q3.java" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -396,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610157009612</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="求子集">
+      <created>1614869173529</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614869173529</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +432,8 @@
     <MESSAGE value="format" />
     <MESSAGE value="fix bug" />
     <MESSAGE value="最小覆盖子串" />
-    <option name="LAST_COMMIT_MESSAGE" value="最小覆盖子串" />
+    <MESSAGE value="求子集" />
+    <option name="LAST_COMMIT_MESSAGE" value="求子集" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
