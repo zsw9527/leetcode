@@ -9,6 +9,22 @@ public class Q79 {
         int m = board.length;
         int n = board[0].length;
 
+        int[] freq1 = new int[255];
+        int[] freq2 = new int[255];
+        for (int i = 0; i < word.length(); i++) {
+            freq1[word.charAt(i)]++;
+        }
+        for (char[] chars : board) {
+            for (char aChar : chars) {
+                freq2[aChar]++;
+            }
+        }
+        for (int i = 0; i < freq1.length; i++) {
+            if (freq1[i]>freq2[i]){
+                return false;
+            }
+        }
+
         for (int i = 0; i < m; i++) {
             for (int j = 0;  j < n; j++) {
                 if (word.charAt(0) == board[i][j]) {
