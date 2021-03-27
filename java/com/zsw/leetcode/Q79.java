@@ -2,48 +2,63 @@ package com.zsw.leetcode;
 
 public class Q79 {
 
-    private static int[][] dires = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-    private int row, col;
-    private boolean hasFind;
-    private boolean[][] visited;
+    int[] dx = {0, 1, -1, 0};
+    int[] dy = {1, 0, 0, -1};
+
     public boolean exist(char[][] board, String word) {
-        row = board.length;
-        col = board[0].length;
-        hasFind = false;
-        if(row * col < word.length())
-            return false;
-        visited = new boolean[row][col];
-        char[] chars = word.toCharArray();
-        for(int i = 0; i < row; i++){
-            for(int j = 0; j < col; j++){
-                if(board[i][j] == chars[0]){
-                    backTrack(board, chars, 1, i, j);
-                    if(hasFind)
-                        return true;
+        int m = board.length;
+        int n = board[0].length;
+
+        boolean res = false;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0;  j < n; j++) {
+                if (word.charAt(0) == board[i][j]) {
+                    boolean[][] visited = new boolean[m][n];
+                    StringBuffer sb = new StringBuffer();
+                    visited[i][j] = true;
+                    sb.append(board[i][j]);
+                    res |= dfs(board, i, j, word, sb, visited, 1);
                 }
             }
         }
-        return false;
+        return res;
     }
 
-    private void backTrack(char[][] board, char[] word, int curIndex, int x, int y){
-        if(hasFind)
-            return;
-        if(curIndex == word.length){
-            hasFind = true;
-            return;
+    private boolean dfs(char[][] board, int i, int j, String word, StringBuffer sb, boolean[][] visited, int len) {
+        if (sb.toString().equals(word)) {
+            return true;
         }
-        visited[x][y] = true;
-        for(int[] dire : dires){
-            int newX = x + dire[0], newY = y + dire[1];
-            if(isIn(newX, newY) && !visited[newX][newY] && board[newX][newY] == word[curIndex])
-                backTrack(board, word, curIndex + 1, newX, newY);
+
+        boolean flag = false;
+        for (int s = 0; s < 4; ++s) {
+            int x2 = i + dx[s];
+            int y2 = j + dy[s];
+
+            if (x2 >= 0 && x2 < visited.length && y2 >= 0 && y2 < visited[0].length
+                && len < word.length() && word.charAt(len) == board[x2][y2] && !visited[x2][y2]) {
+                sb.append(board[x2][y2]);
+                len++;
+                visited[x2][y2] = true;
+
+                flag |= dfs(board, x2, y2, word, sb, visited, len);
+
+                visited[x2][y2] = false;
+                sb.deleteCharAt(sb.length()-1);
+                len--;
+            }
         }
-        visited[x][y] = false;
+        return flag;
     }
 
-    private boolean isIn(int x, int y){
-        return x >= 0 && x < row && y >= 0 && y < col;
+
+    public static void main(String[] args) {
+        char[][] board = {
+            {'C','A','A'},
+            {'A','A','A'},
+            {'B','C','D'},
+        };
+        boolean r = new Q79().exist(board, "AAB");
+        System.out.println(r);
     }
 
 }
