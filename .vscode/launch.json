@@ -1,0 +1,336 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permute",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.backtrack.Permute",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.binarySearch.BinarySearch",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.dp.CoinChange",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fib",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.dp.Fib",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinDistance",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.dp.MinDistance",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.sort.BubbleSort",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectSort",
+            "request": "launch",
+            "mainClass": "com.zsw.algorithm.sort.SelectSort",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Face0109",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Face0109",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinStack",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.MinStack",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1021",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1021",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1033",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1033",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1051",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1051",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q113",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q113",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q125",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q125",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1342",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1342",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1346",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1346",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1470",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q1470",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q169",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q169",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q18",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q18",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q189",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q189",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q19",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q19",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q20",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q20",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q209",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q209",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q215",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q215",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q216",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q216",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q238",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q238",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q3",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q334",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q334",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q35",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q35",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q377",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q377",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q39",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q39",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q4",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q416",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q416",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q46",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q46",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q53",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q53",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q557",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q557",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q60",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q60",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q633",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q633",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q674",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q674",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q718",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q718",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q78",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q78",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q784",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q784",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q79",
+            "request": "launch",
+            "mainClass": "com.zsw.leetcode.Q79",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q11",
+            "request": "launch",
+            "mainClass": "com.zsw.swordoffer.Q11",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4(1)",
+            "request": "launch",
+            "mainClass": "com.zsw.swordoffer.Q4",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "com.zsw.swordoffer.Q5",
+            "projectName": "leetcode"
+        }
+    ]
+}
