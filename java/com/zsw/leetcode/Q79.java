@@ -9,7 +9,6 @@ public class Q79 {
         int m = board.length;
         int n = board[0].length;
 
-        boolean res = false;
         for (int i = 0; i < m; i++) {
             for (int j = 0;  j < n; j++) {
                 if (word.charAt(0) == board[i][j]) {
@@ -17,11 +16,13 @@ public class Q79 {
                     StringBuffer sb = new StringBuffer();
                     visited[i][j] = true;
                     sb.append(board[i][j]);
-                    res |= dfs(board, i, j, word, sb, visited, 1);
+                    if (dfs(board, i, j, word, sb, visited, 1)) {
+                        return true;
+                    }
                 }
             }
         }
-        return res;
+        return false;
     }
 
     private boolean dfs(char[][] board, int i, int j, String word, StringBuffer sb, boolean[][] visited, int len) {

@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="去掉无用代码">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="leetcode79">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/com/zsw/leetcode/Q79.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/zsw/leetcode/Q79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -291,7 +290,7 @@
       <workItem from="1611546926077" duration="143000" />
       <workItem from="1612084233484" duration="2708000" />
       <workItem from="1612186076336" duration="161000" />
-      <workItem from="1616815243782" duration="3770000" />
+      <workItem from="1616815243782" duration="5694000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -405,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614869173529</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="leetcode79">
+      <created>1616819079274</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616819079274</updated>
+    </task>
+    <task id="LOCAL-00018" summary="leetcode79">
+      <created>1616819131483</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616819131483</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,25 +449,26 @@
     <MESSAGE value="fix bug" />
     <MESSAGE value="最小覆盖子串" />
     <MESSAGE value="求子集" />
-    <option name="LAST_COMMIT_MESSAGE" value="求子集" />
+    <MESSAGE value="leetcode79" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode79" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1661" height="328" key="GridCell.Tab.0.bottom" timestamp="1616818523613">
+    <state width="1661" height="266" key="GridCell.Tab.0.bottom" timestamp="1616819093315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616818523613" />
-    <state width="1661" height="328" key="GridCell.Tab.0.center" timestamp="1616818523613">
+    <state width="1661" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616819093315" />
+    <state width="1661" height="266" key="GridCell.Tab.0.center" timestamp="1616819093315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616818523613" />
-    <state width="1661" height="328" key="GridCell.Tab.0.left" timestamp="1616818523612">
+    <state width="1661" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616819093315" />
+    <state width="1661" height="266" key="GridCell.Tab.0.left" timestamp="1616819093315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616818523612" />
-    <state width="1661" height="328" key="GridCell.Tab.0.right" timestamp="1616818523613">
+    <state width="1661" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616819093315" />
+    <state width="1661" height="266" key="GridCell.Tab.0.right" timestamp="1616819093315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616818523613" />
+    <state width="1661" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616819093315" />
     <state width="1661" height="328" key="GridCell.Tab.1.bottom" timestamp="1616818523613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -471,6 +485,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1661" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616818523613" />
+    <state x="511" y="261" key="Vcs.Push.Dialog.v2" timestamp="1616819202319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616819202319" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,11 +502,6 @@
           <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q3.java</url>
           <line>35</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java/com/zsw/leetcode/Q79.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
