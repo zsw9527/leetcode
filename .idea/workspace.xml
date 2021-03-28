@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="leetcode79">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="leetcode128">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/zsw/leetcode/Q79.class" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,7 @@
       <recent name="com.zsw.swordoffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q128">
+  <component name="RunManager" selected="Application.Q139">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zsw.algorithm.sort.BubbleSort" />
       <module name="leetcode" />
@@ -131,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q3" />
+    <configuration name="Q139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q139" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q674" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q674" />
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsw.leetcode.Q3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -172,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q139" />
         <item itemvalue="Application.Q128" />
         <item itemvalue="Application.Q79" />
         <item itemvalue="Application.Q3" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Q674" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +290,8 @@
       <workItem from="1612084233484" duration="2708000" />
       <workItem from="1612186076336" duration="161000" />
       <workItem from="1616815243782" duration="11473000" />
-      <workItem from="1616854299954" duration="3851000" />
+      <workItem from="1616854299954" duration="5131000" />
+      <workItem from="1616898784048" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -433,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616822245714</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="leetcode128">
+      <created>1616858169084</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616858169085</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,25 +472,26 @@
     <MESSAGE value="最小覆盖子串" />
     <MESSAGE value="求子集" />
     <MESSAGE value="leetcode79" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode79" />
+    <MESSAGE value="leetcode128" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode128" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1661" height="365" key="GridCell.Tab.0.bottom" timestamp="1616858141485">
+    <state width="1204" height="266" key="GridCell.Tab.0.bottom" timestamp="1616900425741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616858141485" />
-    <state width="1661" height="365" key="GridCell.Tab.0.center" timestamp="1616858141485">
+    <state width="1204" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616900425741" />
+    <state width="1204" height="266" key="GridCell.Tab.0.center" timestamp="1616900425741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="365" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616858141485" />
-    <state width="1661" height="365" key="GridCell.Tab.0.left" timestamp="1616858141485">
+    <state width="1204" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616900425741" />
+    <state width="1204" height="266" key="GridCell.Tab.0.left" timestamp="1616900425741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="365" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616858141485" />
-    <state width="1661" height="365" key="GridCell.Tab.0.right" timestamp="1616858141485">
+    <state width="1204" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616900425741" />
+    <state width="1204" height="266" key="GridCell.Tab.0.right" timestamp="1616900425741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1661" height="365" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616858141485" />
+    <state width="1204" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616900425741" />
     <state width="1661" height="365" key="GridCell.Tab.1.bottom" timestamp="1616858141486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -500,10 +508,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1661" height="365" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616858141486" />
-    <state x="511" y="261" key="Vcs.Push.Dialog.v2" timestamp="1616822258624">
+    <state x="511" y="261" key="Vcs.Push.Dialog.v2" timestamp="1616858219964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="511" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616822258624" />
+    <state x="511" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616858219964" />
+    <state x="383" y="130" key="new project wizard" timestamp="1616898800686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="383" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616898800686" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
