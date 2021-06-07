@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="Q93,Q240">
+    <list default="true" id="5cae8a71-2bc9-4e24-b4df-1c7ebeb76689" name="Default Changelist" comment="分发糖果">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="8227bdfb-7e43-48dc-8624-673e89ba5c99" name="New changelist" comment="" />
@@ -169,6 +169,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Leetcode54" />
@@ -297,7 +308,8 @@
       <workItem from="1620526298473" duration="100000" />
       <workItem from="1620527957948" duration="24000" />
       <workItem from="1622890827285" duration="3360000" />
-      <workItem from="1622982808835" duration="1278000" />
+      <workItem from="1622982808835" duration="2755000" />
+      <workItem from="1623076579474" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="两道二叉树的题，套路差不多，都是先序遍历思想">
       <created>1592617394043</created>
@@ -474,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622892557984</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="分发糖果">
+      <created>1622984176569</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1622984176569</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +530,8 @@
     <MESSAGE value="delete" />
     <MESSAGE value="leetcode54" />
     <MESSAGE value="Q93,Q240" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q93,Q240" />
+    <MESSAGE value="分发糖果" />
+    <option name="LAST_COMMIT_MESSAGE" value="分发糖果" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
